@@ -1,0 +1,99 @@
+.image {border-radius: 100%;
+        width:20%; }
+
+.fine {background-color:#C5D8A4;
+       }
+.jop {background-color:#F4FCD9;
+      margin:0;
+      margin-top:-27px; }
+.hand {width: 18px;}
+/* .line {border-style: dotted;
+       width:20%;
+        border-top-style: dotted;
+        border-style: dotted;
+        margin:auto;} */
+.gone {position: absolute;
+       top:1%;
+       left:80%;
+       width: 14%;
+       }
+
+.photo {position:absolute;
+       left: 42%;
+      top: 100%;
+    width: 14%;
+      }
+
+.jj {margin:0;}
+.text {color:#326765;}
+.first { color:#0F4C75;
+        position:absolute;
+        left: 22%;
+        top:12%;
+
+        font-family: 'Square Peg', cursive;
+        font-size: 181%; }
+.rt {font-family: 'Square Peg', cursive;
+     font size: 50%}
+
+.text {  font-family: 'Square Peg', cursive;}
+.second { text-align: center;
+
+        font-family: 'Monoton', cursive;
+        font-size: 300%;
+        margin-bottom:0 }
+
+.third { text-align: center;
+
+         /* font-family: 'Inconsolata', mon/ospace; */
+        /* font-family: 'Ms Madi', cursive; */
+        font-family: 'Square Peg', cursive;
+        font-size:37px;
+        margin-bottom: 100px }
+.fourth {text-align: center;
+        font-size: 158%;
+        font-family: 'Square Peg', cursive;
+        }
+
+.fifth {text-align: center;
+font-size:339%;}
+.w {position: absolute;
+    left:70%;
+    top:200%;
+    width:8% }
+
+.i {position: absolute;
+    left:25%;
+    top:230%;
+    width:8%
+     }
+
+.l {position: absolute;
+    left:8%;
+    top:200%;
+    width:8% }
+
+.t {position: absolute;
+    left:62%;
+    top:230%;
+    width:8% }
+
+.whatsapp {font-size: 260%;
+         position: absolute;
+         top: 190%;
+        left:79%;}
+
+.instagram {font-size: 260%;
+         position: absolute;
+         top: 220%;
+        left:35%;}
+
+.linkedin {font-size: 260%;
+         position: absolute;
+         top: 190%;
+        left:18%;}
+
+.twiiter {font-size: 260%;
+         position: absolute;
+         top: 220%;
+        left:71%;}
